@@ -1,3 +1,18 @@
 img {
     width: 200px;
 }
+
+body {
+    background-color: #F9F9F9;
+}
+
+hr {
+    color: lightgray;
+    border-style: dotted none none ;
+    border-width: 6px;
+    width: 50px;
+}
+
+h1, h3 {
+    color: #BEAEE2;
+}
